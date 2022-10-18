@@ -7,6 +7,9 @@ Todos os dias, o nosso sistema atualiza as vendas do dia anterior. Nesse projeto
 é reponsável por enviar emails diariamente, com o faturamento e a quantidade de produtos vendidos no dia anterior.
 Para resolver isso, vamos usar o pyautogui, uma biblioteca de automação do mouse e teclado. Referência do pyautogui: https://pyautogui.readthedocs.io/en/latest/quickstart.html.
 
+Necessário á instalação da biblioteca pyautogui: pip install pyautogui
+
+
 EN-US
 
 Every day, our system updates the previous day's sales. In this project we will use an example, where an analyst,
