@@ -17,3 +17,4 @@ is responsible for sending emails daily, with billing and the amount of products
 To solve this, we are going to use pyautogui, a mouse and keyboard automation library. pyautogui reference:
 https://pyautogui.readthedocs.io/en/latest/quickstart.html.
 
+thank you!
