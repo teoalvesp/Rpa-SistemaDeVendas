@@ -18,7 +18,7 @@ pyautogui.write("Chrome")
 pyautogui.press("Enter")
 pyautogui.click(x=907, y=622) # No nosso caso, o Chrome irá abrir uma tela para escolhermos o perfil do usuário desejado.
                             # Abra o arquivo position.ipynb para mais info.
-sleep(5)
+sleep(6)
 pyautogui.hotkey("ctrl", "t")
 pyperclip.copy("https://drive.google.com/drive/folders/1EbYxfjkfLz2qANcm5EvUuP5LyEXEt2aP?usp=sharing")
 pyautogui.hotkey("ctrl", "v")
