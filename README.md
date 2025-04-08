@@ -1,6 +1,10 @@
 # Automacao-Sistemas-Python
 Projeto de Automação de Sistemas e Processos em Python | System and Process Automation Project in Python
 
+> **Atenção:** Este repositório foi migrado da minha conta antiga [@Theus-Alves](https://github.com/Theus-Alves), da qual perdi acesso após problemas com 2FA após ser hackeado. O projeto é de minha autoria e está sendo mantido aqui para fins de portfólio.
+
+---
+
 PT-BR_
 
 Todos os dias, o nosso sistema atualiza as vendas do dia anterior. Nesse projeto usaremos um exemplo, onde um analista,
